@@ -1,0 +1,66 @@
+{
+    "Zagreb": {
+        "password": "123456",
+        "score": 600
+    },
+    "": {
+        "password": "",
+        "score": 423
+    },
+    "Zagreb2": {
+        "password": "123456",
+        "score": 127
+    },
+    "Zagreb3": {
+        "password": "123456",
+        "score": 123
+    },
+    "A": {
+        "password": "123456",
+        "score": 13
+    },
+    "B": {
+        "password": "123456",
+        "score": 188
+    },
+    "C": {
+        "password": "123456",
+        "score": 93
+    },
+    "D": {
+        "password": "123456",
+        "score": 230
+    },
+    "E": {
+        "password": "123456",
+        "score": 157
+    },
+    "F": {
+        "password": "123456",
+        "score": 324
+    },
+    "G": {
+        "password": "123456",
+        "score": 400
+    },
+    "H": {
+        "password": "123456",
+        "score": 500
+    },
+    "X": {
+        "password": "123456",
+        "score": 88
+    },
+    "sdadsa": {
+        "password": "asdasdPassword",
+        "score": 0
+    },
+    "pedro": {
+        "password": "pedro",
+        "score": 0
+    },
+    "jugador1": {
+        "password": "ersdiuf",
+        "score": 0
+    }
+}
