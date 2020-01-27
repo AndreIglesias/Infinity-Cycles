@@ -5,7 +5,6 @@ Infinity Cycles es un juego que consiste en encadenar fractales para alcanzar ob
 ![Alt text](manual.jpg?raw=true "man")
 ## Ejemplos
 ![Alt text](images/ex1.png?raw=true "ex")
-![Alt text](images/ex2.png?raw=true "ex")
 ![Alt text](images/ex3.png?raw=true "ex")
 ![Alt text](images/ex4.png?raw=true "ex")
 ![Alt text](images/ex5.png?raw=true "ex")
